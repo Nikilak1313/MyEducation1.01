@@ -56,7 +56,7 @@ public static boolean checkVisokos (int g) {
         //checkZnak(0);
         //System.out.println( checkNegative(-4));
         // printString("Hi? am test string!", 9);
-        //System.out.println( checkVisokos(1600));
+        System.out.println( checkVisokos(1600));
 
     }}
 
